@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <div class="rainbow-text"><span class="block-line"><span><span>@</span><span>c</span><span>o</span><span>r</span><span>r</span><span>r</span><span>r</span><span>r</span><span>r</span><span>r</span><span>r</span><span>r</span><span>r</span><span>r</span><span>r</span></span></span></div>
+- 👋 Hi, I’m @corrrrrrrrrrrr
 
 <!---
 corrrrrrrrrrrr/corrrrrrrrrrrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
